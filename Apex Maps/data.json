@@ -1,0 +1,216 @@
+{
+  "info": {
+    "update_ver": 23
+  },
+  "maps": {
+    "WorldsEdge": {
+      "display_name": "World's Edge",
+      "world_data": {
+        "pos_x": "-45056",
+        "pos_y": "45055",
+        "scale": "22"
+      },
+      "img": {
+        "name": "mp_rr_desertlands_hu.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_desertlands_hu.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_desertlands_hu"
+    },
+    "WorldsEdgeDark": {
+      "display_name": "World's Edge Dark Mode",
+      "world_data": {
+        "pos_x": "-45056",
+        "pos_y": "45055",
+        "scale": "22"
+      },
+      "img": {
+        "name": "mp_rr_desertlands_hu_BW.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_desertlands_hu_BW.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_desertlands_hu"
+    },
+    "WorldsEdgeOG": {
+      "display_name": "World's Edge OG",
+      "world_data": {
+        "pos_x": "-45056",
+        "pos_y": "45055",
+        "scale": "22"
+      },
+      "img": {
+        "name": "mp_rr_desertlands_og.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_desertlands_og.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_desertlands_hu"
+    },
+    "StormPoint": {
+      "display_name": "Storm Point",
+      "world_data": {
+        "pos_x": "-50606",
+        "pos_y": "52139",
+        "scale": "25"
+      },
+      "img": {
+        "name": "mp_rr_tropic_island_mu2.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_tropic_island_mu2.png"
+      },
+      "glasses_offset": {
+        "x": -8,
+        "y": 32
+      },
+      "update_ver": 3,
+      "identifier": "mp_rr_tropic_island_mu2"
+    },
+
+    "StormPointDark": {
+      "display_name": "Storm Point Dark Mode",
+      "world_data": {
+        "pos_x": "-50606",
+        "pos_y": "52139",
+        "scale": "25"
+      },
+      "img": {
+        "name": "mp_rr_tropic_island_mu2_BW.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_tropic_island_mu2_BW.png"
+      },
+      "glasses_offset": {
+        "x": -8,
+        "y": 32
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_tropic_island_mu2"
+    },
+    "EDistrict": {
+      "display_name": "E-District",
+      "world_data": {
+        "pos_x": "-43008",
+        "pos_y": "43008",
+        "scale": "21"
+      },
+      "img": {
+        "name": "mp_rr_district.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_district.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_district"
+    },
+
+    "EDistrictDark": {
+      "display_name": "E-District Dark Mode",
+      "world_data": {
+        "pos_x": "-43008",
+        "pos_y": "43008",
+        "scale": "21"
+      },
+      "img": {
+        "name": "mp_rr_district_BW.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_district_BW.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_district"
+    },
+
+    "Olympus": {
+      "display_name": "Olympus",
+      "world_data": {
+        "pos_x": "-52024",
+        "pos_y": "48025",
+        "scale": "22"
+      },
+      "img": {
+        "name": "mp_rr_olympus_mu2.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_olympus_mu2.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_olympus_mu2"
+    },
+
+    "OlympusDark": {
+      "display_name": "Olympus Dark Mode",
+      "world_data": {
+        "pos_x": "-52024",
+        "pos_y": "48025",
+        "scale": "22"
+      },
+      "img": {
+        "name": "mp_rr_olympus_mu2_BW.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_olympus_mu2_BW.png"
+      },
+      "update_ver": 2,
+      "identifier": "mp_rr_olympus_mu2"
+    },
+    "KingsCanyon": {
+      "display_name": "King's Canyon",
+      "world_data": {
+        "pos_x": "-37541",
+        "pos_y": "43886",
+        "scale": "20"
+      },
+      "img": {
+        "name": "mp_rr_canyonlands_hu.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_canyonlands_hu.png"
+      },
+      "update_ver": 2,
+      "identifier": "mp_rr_canyonlands_hu"
+    },
+
+    "KingsCanyonDark": {
+      "display_name": "King's Canyon Dark Mode",
+      "world_data": {
+        "pos_x": "-37541",
+        "pos_y": "43886",
+        "scale": "20"
+      },
+      "img": {
+        "name": "mp_rr_canyonlands_hu_BW.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_canyonlands_hu_BW.png"
+      },
+      "update_ver": 3,
+      "identifier": "mp_rr_canyonlands_hu"
+    },
+    "KingsCanyonOG": {
+      "display_name": "King's Canyon OG",
+      "world_data": {
+        "pos_x": "-34469",
+        "pos_y": "40814",
+        "scale": "18.5"
+      },
+      "img": {
+        "name": "mp_rr_canyonlands_og.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_canyonlands_og.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_canyonlands_hu"
+    },
+    "BrokenMoon": {
+      "display_name": "Broken Moon",
+      "world_data": {
+        "pos_x": "-45000",
+        "pos_y": "43500",
+        "scale": "21"
+      },
+      "img": {
+        "name": "mp_rr_divided_moon.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_divided_moon.png"
+      },
+      "update_ver": 2,
+      "identifier": "mp_rr_divided_moon"
+    },
+    "BrokenMoonDark": {
+      "display_name": "Broken Moon Dark Mode",
+      "world_data": {
+        "pos_x": "-45000",
+        "pos_y": "43500",
+        "scale": "21"
+      },
+      "img": {
+        "name": "mp_rr_divided_moon_BW.png",
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_divided_moon_BW.png"
+      },
+      "update_ver": 1,
+      "identifier": "mp_rr_divided_moon"
+    }
+  }
+}
