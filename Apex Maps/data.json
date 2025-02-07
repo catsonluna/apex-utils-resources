@@ -12,7 +12,7 @@
       },
       "img": {
         "name": "mp_rr_desertlands_hu.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_desertlands_hu.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_desertlands_hu.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_desertlands_hu"
@@ -26,7 +26,7 @@
       },
       "img": {
         "name": "mp_rr_desertlands_hu_BW.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_desertlands_hu_BW.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_desertlands_hu_BW.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_desertlands_hu"
@@ -40,7 +40,7 @@
       },
       "img": {
         "name": "mp_rr_desertlands_og.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_desertlands_og.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_desertlands_og.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_desertlands_hu"
@@ -54,7 +54,7 @@
       },
       "img": {
         "name": "mp_rr_tropic_island_mu2.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_tropic_island_mu2.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_tropic_island_mu2.png"
       },
       "glasses_offset": {
         "x": -8,
@@ -73,7 +73,7 @@
       },
       "img": {
         "name": "mp_rr_tropic_island_mu2_BW.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_tropic_island_mu2_BW.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_tropic_island_mu2_BW.png"
       },
       "glasses_offset": {
         "x": -8,
@@ -91,7 +91,7 @@
       },
       "img": {
         "name": "mp_rr_district.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_district.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_district.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_district"
@@ -106,7 +106,7 @@
       },
       "img": {
         "name": "mp_rr_district_BW.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_district_BW.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_district_BW.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_district"
@@ -121,7 +121,7 @@
       },
       "img": {
         "name": "mp_rr_olympus_mu2.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_olympus_mu2.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_olympus_mu2.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_olympus_mu2"
@@ -136,7 +136,7 @@
       },
       "img": {
         "name": "mp_rr_olympus_mu2_BW.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_olympus_mu2_BW.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_olympus_mu2_BW.png"
       },
       "update_ver": 2,
       "identifier": "mp_rr_olympus_mu2"
@@ -150,7 +150,7 @@
       },
       "img": {
         "name": "mp_rr_canyonlands_hu.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_canyonlands_hu.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_canyonlands_hu.png"
       },
       "update_ver": 2,
       "identifier": "mp_rr_canyonlands_hu"
@@ -165,7 +165,7 @@
       },
       "img": {
         "name": "mp_rr_canyonlands_hu_BW.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_canyonlands_hu_BW.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_canyonlands_hu_BW.png"
       },
       "update_ver": 3,
       "identifier": "mp_rr_canyonlands_hu"
@@ -179,7 +179,7 @@
       },
       "img": {
         "name": "mp_rr_canyonlands_og.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_canyonlands_og.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_canyonlands_og.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_canyonlands_hu"
@@ -193,7 +193,7 @@
       },
       "img": {
         "name": "mp_rr_divided_moon.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_divided_moon.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_divided_moon.png"
       },
       "update_ver": 2,
       "identifier": "mp_rr_divided_moon_mu1"
@@ -207,7 +207,7 @@
       },
       "img": {
         "name": "mp_rr_divided_moon_BW.png",
-        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_divided_moon_BW.png"
+        "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@latest/Apex%20Maps/mp_rr_divided_moon_BW.png"
       },
       "update_ver": 1,
       "identifier": "mp_rr_divided_moon_mu1"
