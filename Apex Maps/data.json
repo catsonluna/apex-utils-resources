@@ -196,7 +196,7 @@
         "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_divided_moon.png"
       },
       "update_ver": 2,
-      "identifier": "mp_rr_divided_moon"
+      "identifier": "mp_rr_divided_moon_mu1"
     },
     "BrokenMoonDark": {
       "display_name": "Broken Moon Dark Mode",
@@ -210,7 +210,7 @@
         "url": "https://cdn.jsdelivr.net/gh/catsonluna/apex-utils-resources@master/Apex%20Maps/mp_rr_divided_moon_BW.png"
       },
       "update_ver": 1,
-      "identifier": "mp_rr_divided_moon"
+      "identifier": "mp_rr_divided_moon_mu1"
     }
   }
 }
